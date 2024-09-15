@@ -1,1 +1,1 @@
-# CSC154_CharlesMAlgrat
+# CSC154_CharlesMalgrat
